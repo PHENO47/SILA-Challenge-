@@ -1,0 +1,7 @@
+# Données bancaires privées
+banque_securisee.json
+
+# Fichiers système Python
+__pycache__/
+*.py[cod]
+*$py.class
