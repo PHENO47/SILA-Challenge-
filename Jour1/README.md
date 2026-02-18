@@ -17,4 +17,4 @@ Bienvenue dans le premier projet de mon challenge Python ! Ce système bancaire 
 ## 📦 Installation
 1. Clonez le projet :
 ```bash
-git clone [https://github.com/PHENO47/banque-poo-python.git](https://github.com/PHENO47/banque-poo-python.git)
+git clone [https://github.com/PHENO47/Jour1.git](https://github.com/PHENO47/Jour1.git)
