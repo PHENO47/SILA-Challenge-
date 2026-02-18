@@ -1,20 +1,20 @@
-# 🏦 Secure Bank System (POO Python)
+Readme 
+# 🏦 Secure Bank GUI (Python & Tkinter)
 
-Bienvenue dans le premier projet de mon challenge Python ! Ce système bancaire simule une gestion de comptes réelle avec une attention particulière portée à la **sécurité** et à la **Programmation Orientée Objet**.
+Bienvenue dans mon projet de **Système Bancaire Sécurisé**. Cette version abandonne la console pour une **Interface Graphique (GUI)** intuitive, tout en conservant une logique de programmation orientée objet (POO) robuste.
 
-## 🚀 Fonctionnalités
-- **Authentification** : Accès aux fonctions sensibles (retrait, virement, historique) protégé par un code secret.
-- **Gestion Multicompte** : Support des comptes standards et des comptes professionnels (avec découvert autorisé).
-- **Virements Sécurisés** : Transfert d'argent entre comptes avec contrôle double (solde + authentification).
-- **Historique Transactionnel** : Suivi horodaté de toutes les opérations.
-- **Persistance JSON** : Sauvegarde et chargement automatique des données.
+## ✨ Nouvelles Fonctionnalités (GUI)
+- **Interface Interactive** : Navigation via des boutons et des fenêtres contextuelles.
+- **Saisie Sécurisée** : Masquage des codes secrets lors de la saisie (protection contre les regards indiscrets).
+- **Alertes Dynamiques** : Messages d'erreur et de succès via des boîtes de dialogue (Pop-ups).
+- **Gestion Persistante** : Sauvegarde automatique dans un fichier `banque_securisee.json`.
 
-## 🛠️ Architecture Technique
-- **Encapsulation** : Utilisation d'attributs privés pour le code secret.
-- **Héritage** : Spécialisation des classes pour les comptes Pro.
-- **Exceptions Custom** : Gestion fine des erreurs bancaires via `try/except`.
+## 🛠️ Spécifications Techniques
+- **Framework** : Tkinter (Interface standard Python).
+- **POO** : Utilisation de classes pour la gestion des comptes et de l'application.
+- **Sécurité** : Encapsulation des données sensibles et vérification par code secret.
 
-## 📦 Installation
+## 📦 Installation & Lancement
 1. Clonez le projet :
 ```bash
-git clone [https://github.com/PHENO47/Jour1.git](https://github.com/PHENO47/Jour1.git)
+git clone [https://github.com/PHENO47/jour1.git](https://github.com/PHENO47/jour1.git)
