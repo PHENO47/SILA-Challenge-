@@ -1,7 +1,9 @@
-🕹️ Platformer Pro Hybrid - Jour 6
+🕹️ Platformer Pro Hybrid 
+
 Bienvenue dans le projet phare du Jour 6 ! Ce défi a consisté à développer un moteur de jeu de plateforme 2D complet, capable de fonctionner nativement sur PC (clavier) et sur Mobile (tactile via Pydroid 3).
 
 🌟 Fonctionnalités Principales
+
 Moteur Physique "Custom" : Gestion manuelle des vecteurs de mouvement, de la gravité, de la friction et des rebonds élastiques.
 
 Contrôles Hybrides :
