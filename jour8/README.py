@@ -6,11 +6,11 @@ Ce projet réalise une implémentation complète d'un pipeline de **Machine Lear
 
 ## 🌟 Points Forts du Projet
 
-* **Architecture Hybride** : Détection automatique de l'environnement. Le script affiche les graphiques sur **PC** et les exporte automatiquement en `.png` sur **Mobile (Pydroid 3)** pour éviter les plantages d'interface.
-* **Pipeline Scikit-Learn** : Intégration du `StandardScaler` et du `RandomForestClassifier` dans un seul objet pour éviter le *Data Leakage*.
-* **Optimisation des Hyperparamètres** : Utilisation de `GridSearchCV` pour trouver la meilleure configuration du modèle.
-* **Interprétabilité** : Analyse de l'importance des variables pour comprendre les critères de décision de l'IA.
-* **Persistance** : Exportation du modèle final au format `.joblib` pour une utilisation future sans réentraînement.
+* Architecture Hybride : Détection automatique de l'environnement. Le script affiche les graphiques sur **PC** et les exporte automatiquement en `.png` sur **Mobile (Pydroid 3)** pour éviter les plantages d'interface.
+* Pipeline Scikit-Learn : Intégration du `StandardScaler` et du `RandomForestClassifier` dans un seul objet pour éviter le *Data Leakage*.
+* Optimisation des Hyperparamètres : Utilisation de `GridSearchCV` pour trouver la meilleure configuration du modèle.
+* Interprétabilité : Analyse de l'importance des variables pour comprendre les critères de décision de l'IA.
+* Persistance : Exportation du modèle final au format `.joblib` pour une utilisation future sans réentraînement.
 
 ---
 
@@ -18,10 +18,10 @@ Ce projet réalise une implémentation complète d'un pipeline de **Machine Lear
 
 ### 1. Matrice de Confusion
 
-La matrice de confusion permet de visualiser la qualité des prédictions pour les trois classes : *Setosa*, *Versicolor*, et *Virginica*.
+La matrice de confusion permet de visualiser la qualité des prédictions pour les trois classes : Setosa, Versicolor, et Virginica.
 
-* **Diagonale principale** : Indique les bonnes prédictions.
-* **Hors-diagonale** : Indique les erreurs de classification.
+* Diagonale principale : Indique les bonnes prédictions.
+* Hors-diagonale : Indique les erreurs de classification.
 
 ### 2. Importance des Variables (Feature Importance)
 
@@ -48,10 +48,10 @@ Après exécution, le projet génère les fichiers suivants dans votre dossier :
 
 Si vous visualisez les graphiques sur Pydroid 3 :
 
-* **Icône Disquette** : Sauvegarder manuellement l'image.
-* **Icône Maison** : Réinitialiser la vue après un zoom.
-* **Fermeture (X)** : Nécessaire pour passer au graphique suivant dans le script.
+* Icône Disquette : Sauvegarder manuellement l'image.
+* Icône Maison : Réinitialiser la vue après un zoom.
+* Fermeture (X) : Nécessaire pour passer au graphique suivant dans le script.
 
 ## ✍️ Auteur
 
-**PHENO47** 
+PHENO47
