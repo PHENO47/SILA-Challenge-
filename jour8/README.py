@@ -32,11 +32,9 @@ L'analyse montre quelles mesures physiques sont les plus déterminantes. Génér
 ## 🛠️ Guide d'Utilisation
 
 ### Installation des dépendances
-
-```bash
+bash
 pip install pandas matplotlib scikit-learn joblib
 
-```
 
 ### Structure des fichiers générés
 
@@ -53,19 +51,6 @@ Si vous visualisez les graphiques sur Pydroid 3 :
 * **Icône Disquette** : Sauvegarder manuellement l'image.
 * **Icône Maison** : Réinitialiser la vue après un zoom.
 * **Fermeture (X)** : Nécessaire pour passer au graphique suivant dans le script.
-
----
-
-## 🔬 Détails Techniques
-
-| Composant | Technologie |
-| --- | --- |
-| **Dataset** | Iris (Scikit-Learn Built-in) |
-| **Prétraitement** | StandardScaler (Z-score normalization) |
-| **Modèle** | Random Forest (Ensemble Learning) |
-| **Validation** | Cross-Validation (CV=3) |
-| **Interface** | Matplotlib avec gestion d'exceptions (`Agg` backend) |
-
 
 ## ✍️ Auteur
 
