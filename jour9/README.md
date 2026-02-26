@@ -1,29 +1,9 @@
-Oui ✅
-👉 **Version challenge = OK pour GitHub.**
 
-Ton projet :
-
-* Fonctionne
-* Respecte les exigences
-* Est structuré proprement
-* Utilise PyQt6 + SQLite proprement
-* A des fonctionnalités visibles (UI + export + drag & drop + filtres + notifications)
-
-Franchement : 👍 tu peux le push sans problème.
-
----
-
-# 📄 README prêt à mettre sur GitHub
-
-Tu peux copier-coller tel quel dans ton `README.md`.
-
----
-
-# 🗂 Kanban Ultimate Pro – Gestionnaire de Tâches Avancé (PyQt6)
+#  Kanban Ultimate Pro – Gestionnaire de Tâches Avancé (PyQt6)
 
 ## 📌 Description
 
-**Kanban Ultimate Pro** est une application desktop développée en **Python avec PyQt6**, permettant de gérer des tâches via une interface **Kanban moderne** avec :
+**Kanban Ultimate Pro** est une application développée en **Python avec PyQt6**, permettant de gérer des tâches via une interface **Kanban moderne** avec :
 
 * Colonnes dynamiques (À faire / En cours / Terminé)
 * Drag & Drop fonctionnel
@@ -36,7 +16,6 @@ Tu peux copier-coller tel quel dans ton `README.md`.
 Projet réalisé dans le cadre d’un challenge :
 **Gestionnaire de Tâche Avancé PyQt**
 
----
 
 ## 🖥 Aperçu des fonctionnalités
 
@@ -46,7 +25,6 @@ Projet réalisé dans le cadre d’un challenge :
 * Déplacement des tâches par Drag & Drop
 * Mise à jour automatique du statut en base SQLite
 
----
 
 ### 🏷 Gestion avancée des tâches
 
@@ -55,7 +33,6 @@ Projet réalisé dans le cadre d’un challenge :
 * Recherche dynamique par titre ou tag
 * Filtre par priorité
 
----
 
 ### 💾 Persistance des données
 
@@ -63,21 +40,18 @@ Projet réalisé dans le cadre d’un challenge :
 * Création automatique du schéma
 * Sauvegarde persistante des tâches
 
----
 
 ### 🔔 Notifications système
 
 * Notification automatique lors de l’ajout d’une nouvelle tâche
 * Intégration via `QSystemTrayIcon`
 
----
 
 ### 📊 Export des données
 
 * Export complet en CSV
 * Génération automatique d’un rapport PDF
 
----
 
 ## 🛠 Technologies utilisées
 
@@ -87,14 +61,13 @@ Projet réalisé dans le cadre d’un challenge :
 * CSV (standard library)
 * Qt Print Support
 
----
 
 ## 📦 Installation
 
 1️⃣ Cloner le dépôt :
 
 ```bash
-git clone https://github.com/ton-username/kanban-ultimate-pro.git
+git clone https://github.com/PHENO47/kanban-ultimate-pro.git
 cd kanban-ultimate-pro
 ```
 
@@ -156,51 +129,9 @@ Le projet est structuré en trois parties principales :
 
 ---
 
-## 👨‍💻 Auteur
+## 👨‍💻 Auteur: PHENO47
 
 Projet développé dans le cadre d’un challenge Python / PyQt6
 Objectif : démonstration de compétences en développement d’application desktop.
 
 ---
-
-# 🎯 Petit conseil GitHub
-
-Avant de push :
-
-Ajoute un `.gitignore` :
-
-```
-kanban_ultimate.db
-*.csv
-*.pdf
-__pycache__/
-```
-
-👉 On ne versionne pas la base ni les exports.
-
----
-
-# 🏆 Conclusion
-
-Oui, tu peux publier.
-
-Ce projet montre :
-
-* UI desktop
-* Gestion base de données
-* Architecture orientée objet
-* Gestion d’événements Qt
-* Export de données
-* Notifications système
-
-Pour un recruteur junior/intermédiaire, c’est un bon projet.
-
----
-
-Si tu veux, je peux aussi te faire :
-
-* 🔥 Une description courte optimisée LinkedIn
-* 💼 Une phrase à dire en entretien pour présenter ce projet
-* ⭐ Une version README plus “premium” visuellement attractive
-
-Tu veux optimiser ça pour impressionner recruteur ou école ? 🚀
