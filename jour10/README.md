@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Pygame](https://img.shields.io/badge/Pygame-2.6.1-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
 
 # 🎮 Morpion IA – Minimax Alpha-Beta (N×N)
 
