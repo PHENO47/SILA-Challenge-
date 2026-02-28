@@ -93,8 +93,8 @@ async-api-client/
 ### Clone repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/async-api-client.git
-cd async-api-client
+git clone https://github.com/PHENO47/SILA_Challenge
+cd jour11
 ```
 
 ### Install dependencies
@@ -233,9 +233,3 @@ Future Full-Stack Developer | Cybersecurity Enthusiast | AI Learner
 
 ---
 
-# 🏆 Project Level
-
-Backend Async Project – Intermediate to Advanced
-Portfolio-ready.
-
----
