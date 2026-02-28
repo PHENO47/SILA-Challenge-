@@ -80,6 +80,7 @@ async-api-client/
 ├── main.py
 ├── client.py
 ├── utils.py
+|___ config.py
 ├── docs/
 │   └── api_keys_setup.md
 ├── requirements.txt
@@ -228,7 +229,7 @@ Provides a modern CLI dashboard experience.
 
 # 👨‍💻 Author
 
-**Samuel (PHENO47)**
+**PHENO47**
 Future Full-Stack Developer | Cybersecurity Enthusiast | AI Learner
 
 ---
