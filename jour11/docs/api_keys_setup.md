@@ -1,14 +1,3 @@
-📂 Maintenant : Ajouter un dossier dans ton projet
-
-Dans ton repo GitHub, crée :
-
-docs/
-│
-└── api_keys_setup.md
-📄 Contenu suggéré pour api_keys_setup.md
-
-Voici ce que tu peux mettre dedans 👇
-(Tu pourras copier-coller)
 
 📘 How to Get API Keys
 🌦 OpenWeatherMap API Key
@@ -59,29 +48,3 @@ Environment variables
 
 User input (like this project does)
 
-🎯 Pourquoi c’est une très bonne idée ?
-
-✔ Tu montres que tu comprends la sécurité
-✔ Tu aides les utilisateurs de ton projet
-✔ Ton repo devient professionnel
-✔ Tu respectes les bonnes pratiques open-source
-
-💎 Petit bonus (optionnel mais pro)
-
-Ajoute un fichier .gitignore :
-
-.env
-__pycache__/
-🏆 Résultat final
-
-Ton repo aura :
-
-async-api-client/
-│
-├── main.py
-├── client.py
-├── utils.py
-├── docs/
-│   └── api_keys_setup.md
-├── requirements.txt
-└── README.md
