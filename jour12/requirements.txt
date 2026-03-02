@@ -1,0 +1,10 @@
+nltk
+scikit-learn
+datasets
+transformers
+torch
+flask
+matplotlib
+seaborn
+numpy
+pandas
