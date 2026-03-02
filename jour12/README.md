@@ -1,4 +1,14 @@
 🧠 Advanced NLP Sentiment Analysis – Baseline vs Transformer
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red.svg)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow.svg)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-ML-orange.svg)
+![Flask](https://img.shields.io/badge/Flask-API-black.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-success.svg)
+![Dataset](https://img.shields.io/badge/Dataset-IMDB-lightgrey.svg)
+
 🚀 Project Overview
 
 This project implements a bi-level sentiment analysis system using Python:
