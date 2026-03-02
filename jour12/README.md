@@ -141,8 +141,8 @@ Response:
 }
 🖥 Installation (PC Version)
 1️⃣ Clone repository
-git clone https://github.com/YOUR_USERNAME/sentiment-analyzer.git
-cd sentiment-analyzer
+git clone https://github.com/PHEBO47/jour12.git
+cd 
 2️⃣ Create virtual environment
 python -m venv venv
 
