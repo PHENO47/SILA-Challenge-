@@ -109,13 +109,13 @@ regex-search-engine/
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/regex-search-engine.git
+git clone https://github.com/PHENO47/SILA-Challenge.git
 ```
 
 Go into the project folder:
 
 ```bash
-cd regex-search-engine
+cd jour13
 ```
 
 Install dependencies:
