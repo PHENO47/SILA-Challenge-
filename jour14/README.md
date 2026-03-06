@@ -48,7 +48,6 @@ bot-automation-selenium/
 │   ├── scraped_data.db
 │   └── export.csv
 │
-
 ├── main.py
 ├── requirements.txt
 └── README.md
