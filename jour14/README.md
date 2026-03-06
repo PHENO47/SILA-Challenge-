@@ -41,12 +41,14 @@ bot-automation-selenium/
 │   ├── scraper.py
 │   ├── parser.py
 │   ├── database.py
+|   ├── scheduler.py
+|   ├── utils.py
 │
 ├── data/
 │   ├── scraped_data.db
 │   └── export.csv
 │
-├── scheduler.py
+
 ├── main.py
 ├── requirements.txt
 └── README.md
