@@ -49,7 +49,7 @@ hangman-game
 │
 ├── main.py          # Jeu principal
 ├── word_loader.py   # Chargement des mots
-├── words.txt        # Liste des mots
+├── words.txt        # Liste des mots dans ce fichier on peut ajouter autant des mots possible pour le jeu 
 └── README.md
 
 ```
