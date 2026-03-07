@@ -1,13 +1,4 @@
-Parfait 👍
-On va faire un **README propre pour GitHub**, qui **garde le même style que tes précédents projets** (explication claire + badges + structure + utilisation), mais adapté à **la nouvelle version du jeu du pendu**.
 
-Tu peux **copier-coller directement dans `README.md`**.
-
----
-
-# 🪢 Hangman Game – Python Tkinter
-
-```markdown
 # 🪢 Hangman Game – Python Tkinter
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
